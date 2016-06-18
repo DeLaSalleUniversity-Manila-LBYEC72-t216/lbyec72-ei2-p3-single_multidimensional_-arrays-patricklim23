@@ -6,3 +6,6 @@
 ![](Mean.png)
 ![](Standard Deviation.png)
 ![](Summation of Data.png)
+![](Addition.png)
+![](Multiplication.png)
+![](Transpose.png)
